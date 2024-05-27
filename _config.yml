@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "haxor" # "air", "aqua", "contrast", "dark", "dirt", 
 locale                   : "en-US"
 title                    : "KeNny0-0"
 title_separator          : "-"
-name                     : "Kenny Campoverde"
+name                     : "KeNny0-0"
 description              : "Estudiante de Computacion"
 url                      : "https://KeNny0-0.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -101,7 +101,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "KeNnY"
+  name             : "Kenny Campoverde"
   avatar           : "/assets/images/avatar12.png"
   bio              : "Estudiante de Computacion de la Universidad Politecnica Salesiana"
  # location         : ""
