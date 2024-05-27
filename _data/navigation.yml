@@ -5,7 +5,7 @@ main:
     url: /year-archive/
   - title: "Categories"
     url: /categories/
-  - title: "Contacto"
-    url: /Contacto/
-  - title: "Contacto"
+  - title: "Tags"
+    url: /tags/
+  - title: "about"
     url: /about/
